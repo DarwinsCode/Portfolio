@@ -1,8 +1,9 @@
-📊 Data Science & Analysis Portfolio
-📘 Overview
+📊 **Data Science & Analysis Portfolio**
+
+📘 **Overview**
 This portfolio showcases a collection of projects demonstrating skills in data analysis, machine learning, and statistical modeling. The work spans Python, R, and Apache Spark, covering topics from economic analysis to biodiversity modeling.
 
-🐍 Part I: Python & Machine Learning Projects
+🐍 **Part I:** Python & Machine Learning Projects
 Projects built using Python libraries such as pandas, scikit‑learn, and Jupyter Notebooks.
 
 Childcare Cost Model
@@ -40,7 +41,7 @@ Description: Python script integrating external weather APIs to fetch, parse, an
 
 Tech Stack: Python, API Integration
 
-📈 Part II: R & Statistical Analysis Projects
+📈 **Part II**: R & Statistical Analysis Projects
 Projects leveraging R for statistical computing and advanced visualization.
 
 Analysis of Kia & Hyundai Theft
