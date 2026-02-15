@@ -74,6 +74,6 @@ This portfolio showcases a collection of projects demonstrating skills in data a
 I am always open to discussing new projects, collaborations, or opportunities.
 
 * **Email:** [NicolasASaenz@gmail.com](mailto:your-email@example.com)
-* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](#)
+* **LinkedIn:** [[www.linkedin.com/in/nicolas-saenz-03592b154](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](#)
 * **GitHub:** [github.com/DarwinsCode](https://github.com/DarwinsCode)
 
