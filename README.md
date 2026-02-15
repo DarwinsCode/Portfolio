@@ -1,5 +1,10 @@
 # 📊 Data Science & Analysis Portfolio
 
+## 👤 About
+*Placeholder: Welcome to my portfolio. I am a Data Scientist passionate about solving complex problems through code. With a strong foundation in Biology, I enjoy exploring ecological and species distribution data. I also enjoy building data-driven solutions for business problems. This repository documents my journey and technical projects.*
+
+---
+
 ## 📘 Overview
 This portfolio showcases a collection of projects demonstrating skills in data analysis, machine learning, and statistical modeling. The work spans **Python, R, and Apache Spark**, covering topics from economic analysis to biodiversity modeling.
 
@@ -65,4 +70,11 @@ This portfolio showcases a collection of projects demonstrating skills in data a
 | **Big Data** | Apache Spark (SparkML) |
 | **Methods** | Clustering, Regression, NLP, API Integration |
 | **Domains** | Biodiversity, Ecology, Economic Analysis |
+
+## 📬 Contact
+I am always open to discussing new projects, collaborations, or opportunities.
+
+* **Email:** [NicolasASaenz@gmail.com](mailto:your-email@example.com)
+* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](#)
+* **GitHub:** [github.com/DarwinsCode](https://github.com/DarwinsCode)
 
