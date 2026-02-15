@@ -1,7 +1,7 @@
 # 📊 Data Science & Analysis Portfolio
 
 ## 👤 About
-*Placeholder: Welcome to my portfolio. I am a Data Scientist passionate about solving complex problems through code. With a strong foundation in Biology, I enjoy exploring ecological and species distribution data. I also enjoy building data-driven solutions for business problems. This repository documents my journey and technical projects.*
+*Welcome to my portfolio. I am a Data Scientist passionate about solving complex problems through code. With a strong foundation in Biology, I enjoy exploring ecological and species distribution data. I also enjoy building data-driven solutions for business problems. This repository documents my journey and technical projects.*
 
 ---
 
@@ -65,7 +65,6 @@ This portfolio showcases a collection of projects demonstrating skills in data a
 ## 🛠 Technical Skills Summary
 
 | Category | Skills |
-| :--- | :--- |
 | **Languages** | Python, R |
 | **Big Data** | Apache Spark (SparkML) |
 | **Methods** | Clustering, Regression, NLP, API Integration |
