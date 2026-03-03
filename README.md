@@ -55,8 +55,8 @@ This portfolio showcases a collection of projects demonstrating skills in data a
 * **Tech Stack:** R
 * [📂 View Project File](./Kia_Hyundai_Theft_Analysis/Kia_Hyundai_Theft_Analysis.R)
 
-### 10. Weather API Integration
-**Description:** Python script integrating external weather APIs to fetch, parse, and utilize live meteorological data.
+### 10. Chuck Norris API
+**Description:** Python script integrating external Chick Norris Api to retreive a usually pretty good Chuck Norris joke on command.
 * **Tech Stack:** Python, API Integration
 * [📂 View Project File](./Chuck_Norris_API_Project/Chuck_Norris_API_Project.py)
 
